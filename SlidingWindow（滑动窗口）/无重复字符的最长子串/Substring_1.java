@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 class Substring_1{
     /**
      * 无重复字符的最长子串

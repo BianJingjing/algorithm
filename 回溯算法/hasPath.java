@@ -45,6 +45,7 @@ public class hasPath {
                 judge(matrix,i,j+1,rows,cols,flag,str,k+1)){
             return true;
         }
+
         flag[index]=false;
         return false;
     }

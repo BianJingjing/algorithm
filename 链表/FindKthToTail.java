@@ -1,5 +1,13 @@
 public class FindKthToTail {
 
+    class ListNode {
+        int val;
+        ListNode next = null;
+        ListNode(int val) {
+            this.val = val;
+        }
+    }
+
     /* 剑指offer--链表中倒数第k个结点
     *  Q: 输入一个链表，输出该链表中倒数第k个结点。
     *  A: 问题转化为正数第n个结点
