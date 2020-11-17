@@ -17,6 +17,11 @@
       <sourceFolder url="file://$MODULE_DIR$/欢聚时代" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baidu" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JD" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/栈" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/链表" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/哈希表" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/双指针" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/数学" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
